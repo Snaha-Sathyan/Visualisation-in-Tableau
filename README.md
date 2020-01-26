@@ -1,0 +1,1 @@
+This project includes plotting of various graphs & analysis for the Suicide Rates (1985-2016) & Sales dataset of an entire year of 2017 & 2 months of 2018. The idea behind creating the visualizations was to explore the data & extract some relationship within them in order to find key points inside the data.
